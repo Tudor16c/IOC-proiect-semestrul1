@@ -60,7 +60,7 @@
         width: 0.4375rem;
         height: 0.75rem;
         margin: 0 1rem;
-        background: url("/assets/images/icons/white-chev.svg");
+        background: url("./assets/images/icons/white-chev.svg");
         background-size: contain;
         background-position: center;
         background-repeat: no-repeat;
